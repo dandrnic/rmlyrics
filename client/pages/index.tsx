@@ -33,7 +33,7 @@ function Index() {
   return (
     <div className="relative flex min-h-screen flex-col justify-center overflow-hidden bg-[#FAFAFA] py-6 sm:py-12">
       <nav className="fixed left-0 top-0 flex h-screen min-w-[220px] flex-col overflow-auto bg-[#F2F2F2] px-10  font-[sans-serif] shadow-lg">
-       <p className="my-10 max-w-[230px] font-sans text-1xl p text-[#7a7a7a]">A lyrics scraper with eng/romaji translations ♪(ﾉ´∀｀*)ﾉ </p>
+       <p className="my-10 max-w-[230px] font-sans text-1xl p text-[#7a7a7a]">A (wip) lyrics scraper with eng/romaji translations ♪(ﾉ´∀｀*)ﾉ </p>
        
         <div className="flex cursor-pointer flex-wrap items-center">
           <div className="relative"></div>
